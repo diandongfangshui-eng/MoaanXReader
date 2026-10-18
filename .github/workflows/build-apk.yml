@@ -1,7 +1,5 @@
 name: Build Moaan X Lite APK
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:
